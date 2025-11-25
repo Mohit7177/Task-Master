@@ -22,8 +22,8 @@ A modern, responsive task management application built with React and Vite.
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd Task-Master
+git clone https://github.com/Mohit7177/TaskMaster.git
+cd TaskMaster
 ```
 
 2. Install dependencies:
