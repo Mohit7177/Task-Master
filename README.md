@@ -88,4 +88,4 @@ This application can be deployed to platforms like:
 
 ## Author
 
-Your Name
+Mohit
